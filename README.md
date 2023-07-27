@@ -1,5 +1,6 @@
 # To-Do-List
 This is a small project regarding HTML , CSS and basic use of Javascript !
+
 I have implemented the use of HTML , CSS and Javascript to create a to-do list project website which can be used to write important notes 
 This script can be of use and implement on other websites as a part of writing anything important 
 
